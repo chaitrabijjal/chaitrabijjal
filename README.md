@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitrabijjal&label=Profile%20views&color=0e75b6&style=flat" alt="chaitrabijjal" /> </p>
-🔭 I’m currently working on Data Analysis & Dashboard Projects (SQL + Power BI)
-🤝 I’m looking to collaborate on real-world data analytics and business intelligence projects
-🧠 I’m looking for help with advanced SQL optimization & DAX measures
-🌱 I’m currently learning Power BI, Excel Automation, and Python for Data Analysis
-💬 Ask me about SQL queries, Data Cleaning, Dashboard Design, and KPI Analysis
-⚡ Fun fact: I enjoy turning raw data into meaningful business insights!
+- 🔭 I’m currently working on Data Analysis & Dashboard Projects (SQL + Power BI)
+- 🤝 I’m looking to collaborate on real-world data analytics and business intelligence projects
+- 🧠 I’m looking for help with advanced SQL optimization & DAX measures
+- 🌱 I’m currently learning Power BI, Excel Automation, and Python for Data Analysis
+- 💬 Ask me about SQL queries, Data Cleaning, Dashboard Design, and KPI Analysis
+- ⚡ Fun fact: I enjoy turning raw data into meaningful business insights!
 - 📫 How to reach me **chaitrabijjal15@gmail.com**
 
 
@@ -45,5 +45,4 @@
 </a>
 
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitrabijjal&" alt="chaitrabijjal" /></p>
