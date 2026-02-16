@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Chaitra+Bijjal)](https://git.io/typing-svg)
 <h3 align="center">A passionate Data Analyst from India</h3>
+<p align="center">
+📊 Turning Data into Insights | SQL • Power BI • Python • Excel
+</p>
+
 - 🔭 I’m currently working on Data Analysis & Dashboard Projects (SQL + Power BI)
 
 - 🤝 I’m looking to collaborate on real-world data analytics and business intelligence projects
