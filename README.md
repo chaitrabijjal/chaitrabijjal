@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **chaitrabijjal15@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/f81a4afef5e6cc08/IQDAtfICNCntSJOTrtbHRyvvAYiF7nzkf7VmuspOIlkO27c?e=4Zt6O1](https://1drv.ms/b/c/f81a4afef5e6cc08/IQDAtfICNCntSJOTrtbHRyvvAYiF7nzkf7VmuspOIlkO27c?e=4Zt6O1)
+- 📄 Know about my experiences [Resume](https://1drv.ms/b/c/f81a4afef5e6cc08/IQDAtfICNCntSJOTrtbHRyvvAYiF7nzkf7VmuspOIlkO27c?e=4Zt6O1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
