@@ -2,10 +2,14 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitrabijjal&label=Profile%20views&color=0e75b6&style=flat" alt="chaitrabijjal" /> </p>
-
+🔭 I’m currently working on Data Analysis & Dashboard Projects (SQL + Power BI)
+🤝 I’m looking to collaborate on real-world data analytics and business intelligence projects
+🧠 I’m looking for help with advanced SQL optimization & DAX measures
+🌱 I’m currently learning Power BI, Excel Automation, and Python for Data Analysis
+💬 Ask me about SQL queries, Data Cleaning, Dashboard Design, and KPI Analysis
+⚡ Fun fact: I enjoy turning raw data into meaningful business insights!
 - 📫 How to reach me **chaitrabijjal15@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://1drv.ms/b/c/f81a4afef5e6cc08/IQDAtfICNCntSJOTrtbHRyvvAYiF7nzkf7VmuspOIlkO27c?e=4Zt6O1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
