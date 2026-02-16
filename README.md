@@ -1,13 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Chaitra+Bijjal)](https://git.io/typing-svg)
 <h3 align="center">A passionate Data Analyst from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitrabijjal&label=Profile%20views&color=0e75b6&style=flat" alt="chaitrabijjal" /> </p>
 - 🔭 I’m currently working on Data Analysis & Dashboard Projects (SQL + Power BI)
+
 - 🤝 I’m looking to collaborate on real-world data analytics and business intelligence projects
+  
 - 🧠 I’m looking for help with advanced SQL optimization & DAX measures
+  
 - 🌱 I’m currently learning Power BI, Excel Automation, and Python for Data Analysis
+  
 - 💬 Ask me about SQL queries, Data Cleaning, Dashboard Design, and KPI Analysis
+  
 - ⚡ Fun fact: I enjoy turning raw data into meaningful business insights!
+  
 - 📫 How to reach me **chaitrabijjal15@gmail.com**
 
 
