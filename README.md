@@ -34,7 +34,7 @@
 
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/>
-</a>
+</a>" "
 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
