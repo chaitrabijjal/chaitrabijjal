@@ -4,6 +4,8 @@
 📊 Turning Data into Insights | SQL • Power BI • Python • Excel
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitrabijjal&label=Profile%20views&color=0e75b6&style=flat" alt="chaitrabijjal" /> </p>
+
 - 🔭 I’m currently working on Data Analysis & Dashboard Projects (SQL + Power BI)
 
 - 🤝 I’m looking to collaborate on real-world data analytics and business intelligence projects
